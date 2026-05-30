@@ -131,8 +131,11 @@ cd client
 npm run dev
 
 📸 Screenshots
+
 User Interface
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/6495c199-f4a0-451d-8547-1ac835bb6393" />
+<img width="884" height="2750" alt="localhost_5173_" src="https://github.com/user-attachments/assets/1fbb6c12-0d1d-4667-b28c-c300798d8280" />
+
 
 Admin Dashboard
 <img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/cc2d992c-47b2-44d6-98ee-58261097a721" />
