@@ -58,7 +58,7 @@ Full Stack Blog Platform is a modern web application developed using the MERN St
 * Search blogs quickly using keywords
 * Improved content discovery and navigation
 
-🛠️ Tech Stack
+##  🛠️ Tech Stack
 
 ### Frontend
 
