@@ -1,6 +1,6 @@
-## Full Stack Blog Platform✍️
+## 🤖Full Stack Blog Platform✍️
 
-## Full Stack Blog Platform is a modern web application developed using the MERN Stack (MongoDB, Express.js, React.js, and Node.js) that enables users to create, manage, and read blog posts through an interactive and responsive interface.
+### Full Stack Blog Platform is a modern web application developed using the MERN Stack (MongoDB, Express.js, React.js, and Node.js) that enables users to create, manage, and read blog posts through an interactive and responsive interface.
 
 ## ✨ Features
 
