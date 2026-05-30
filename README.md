@@ -93,50 +93,78 @@ Full Stack Blog Platform is a modern web application developed using the MERN St
 
 * Vite
 
-🚀 Installation
+  
+## 🚀 Installation
 
-1️⃣ Clone the Repository
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/anuradhapatil123/Full-Stack-Blog-Platform.git
 cd Full-Stack-Blog-Platform
+```
 
-2️⃣ Install client dependencies:
-cd client && npm install
+### 2. Install Client Dependencies
 
-3️⃣ Install server dependencies:
-cd ../server && npm install
+```bash
+cd client
+npm install
+```
 
-Environment Variables
-Client (.env)
+### 3. Install Server Dependencies
 
+```bash
+cd ../server
+npm install
+```
+
+## ⚙️ Environment Variables
+
+### Client (.env)
+
+```env
 VITE_API_BASE_URL=http://localhost:5000
 VITE_IMAGEKIT_URL_ENDPOINT=your-imagekit-endpoint
 VITE_IMAGEKIT_PUBLIC_KEY=your-imagekit-public-key
+```
 
-Server (.env)
+### Server (.env)
 
+```env
 MONGODB_URI=your-mongodb-connection-string
 GEMINI_API_KEY=your-google-gemini-key
 IMAGEKIT_PRIVATE_KEY=your-imagekit-private-key
 JWT_SECRET=your-jwt-secret-key
 ADMIN_EMAIL=your-admin-email
 PORT=5000
+```
 
-4️⃣ Start the development servers:
-# Terminal 1 - Start backend
-cd server 
+### 4. Start the Development Servers
+
+#### Terminal 1 - Start Backend
+
+```bash
+cd server
 npm run server
+```
 
-# Terminal 2 - Start frontend
+#### Terminal 2 - Start Frontend
+
+```bash
 cd client
 npm run dev
+```
 
-📸 Screenshots
+## 📸 Screenshots
 
-User Interface
-<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/6495c199-f4a0-451d-8547-1ac835bb6393" />
-<img width="884" height="2750" alt="localhost_5173_" src="https://github.com/user-attachments/assets/1fbb6c12-0d1d-4667-b28c-c300798d8280" />
+### User Interface
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6495c199-f4a0-451d-8547-1ac835bb6393" alt="User Interface" width="90%">
+</p>
 
-Admin Dashboard
-<img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/cc2d992c-47b2-44d6-98ee-58261097a721" />
+### Admin Dashboard
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc2d992c-47b2-44d6-98ee-58261097a721" alt="Admin Dashboard" width="90%">
+</p>
 
